@@ -69,3 +69,5 @@ function clickEnter() {
 }
 
 inputResult();
+
+//×,÷
